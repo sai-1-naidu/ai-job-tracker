@@ -1,8 +1,8 @@
 # AI-Powered Job Tracker with Smart Matching
 
 ## 🔗 Live Demo
-Frontend: https://YOUR_FRONTEND_URL  
-Backend: https://YOUR_BACKEND_URL
+Frontend: https://ai-job-tracker-gamma.vercel.app/  
+Backend: https://ai-job-tracker-jf0a.onrender.com/
 
 ---
 
