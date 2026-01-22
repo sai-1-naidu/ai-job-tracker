@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import JobCard from "./components/JobCard"
 
-const API_URL = "http://localhost:3000"
+const API_URL = "https://ai-job-tracker-jf0a.onrender.com"
 
 export default function App() {
   const [jobs, setJobs] = useState([])
